@@ -10,5 +10,14 @@ package com.mycompany.miappgit;
  * @author eison
  */
 public class Main {
-    
+      
+    public void numero(){
+ int f=10;
+       for( int i=0; i<f; i++ ){
+   i++;
+           System.out.println(i);
+           
+}
+}
+   
 }
