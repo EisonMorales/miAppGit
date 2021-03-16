@@ -10,7 +10,10 @@ package com.mycompany.miappgit;
  * @author eison
  */
 public class Prueba1 {
+    
     public static void main(String[] args) {
+      Main k= new Main();
+        k.numero();
         System.out.println("hola mundo");
     }
 }
